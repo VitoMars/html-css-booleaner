@@ -37,10 +37,15 @@ h1{
     text-align: center;
 }
 
-#lorem{
+.lorem{
     font-size: 20px;
 }
 
 .evidenziatore{
     background-color: yellow;
+}
+
+ul{
+    font-size: 20px;
+    padding-left: 1.5%;
 }
