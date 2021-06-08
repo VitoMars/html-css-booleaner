@@ -36,3 +36,11 @@ h1{
     padding-top: 2%;
     text-align: center;
 }
+
+#lorem{
+    font-size: 20px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
