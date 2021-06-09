@@ -70,6 +70,7 @@ thead{
 table {
     margin-top: 2%;
     border-collapse: collapse;
+    font-size: 20px;
  }
 
 #monitor{
@@ -80,12 +81,12 @@ table {
     background-image: url("../img/graph.jpg");
 }
 
-.img-footer {
+.img-footer{
     width: 250px;
     height: 200px;
-  }
+}
 
-h3 {
+h3{
     color: grey;
     margin-top: 1%;
 }
