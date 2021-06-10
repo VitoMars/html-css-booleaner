@@ -65,12 +65,12 @@ th {
 }
 
 thead {
-  background-color: #20a9e5;
-  color: white;
+  background-color: none;
+  color: black;
 }
 
 .odd-row {
-  background-color: #b1e5f2;
+  background-color: none;
 }
 
 table {
